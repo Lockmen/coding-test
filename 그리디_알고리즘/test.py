@@ -1,5 +1,4 @@
-end = 1
+a = [(5,1,5), (3,5,5), (3,1,9), (3,1,1)]
+a.sort() # 정렬 수행
 
-while end <= 10:
-    print(end)
-    end+=1
+print(a)
